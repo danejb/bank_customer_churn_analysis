@@ -42,7 +42,7 @@ Analysis of 10,000 customer records to identify churn patterns and lifecycle sta
 - Root cause: Successful engagement machanisms
 - Strategy: Replicate these success factors for new customers
 
-### Finding 4: Long-Term Vulnerability (Year 9+: 21.75% ⚠️
+### Finding 4: Long-Term Vulnerability (Year 9+: 21.75%) ⚠️
 - Churn INCREASES for long-term customers
 - Shows loyalty doesn't guarantee retention
 - Opportunity: Create loyalty porgrams for 9+ year customers
@@ -153,8 +153,7 @@ Analysis of 10,000 customer records to identify churn patterns and lifecycle sta
 
 ### For Detailed Analysis (~20 minutes)
 1. Read `analysis/project_summary.md`
-2. Review `analysis/key_findings.md`
-3. Study the dashboard visualizations
+2. Study the dashboard visualizations
 
 ---
 
